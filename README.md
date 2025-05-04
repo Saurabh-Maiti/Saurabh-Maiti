@@ -1,24 +1,59 @@
-<h1 align="center">Hi 👋, I'm Saurabh Maiti</h1>
+
+# 👋 Hi, I'm Saurabh Maiti!
+
 <h3 align="center">An Android developer by passion 📱, DSA struggler by fate 🥸.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-maiti&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-maiti" /> </p>
+---
 
-- 🔭 I’m currently working on **Whispr**
+## 🐣 About Me:
 
-- 📫 How to reach me **saurabhmaiti4281@gmail.com**
+- 🛠 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **React and Django for Web Development**
+- 👯 I’m looking to collaborate on **Web Development Projects (React.js and Django)**
+- 📫 How to reach me: [tusharsinghchauhan1123@gmail.com](mailto:tusharsinghchauhan1123@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10PxTPgvYr8cQBkAEc7UsuA0b83G2bc83/view?usp=sharing](https://drive.google.com/file/d/10PxTPgvYr8cQBkAEc7UsuA0b83G2bc83/view?usp=sharing)
+---
 
-- ⚡ Fun fact **My GitHub has more activity than my dating profile. 💻🔥**
+## 🔗 Connect with me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saurabhmai44482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhmai44482" height="30" width="40" /></a>
-<a href="https://instagram.com/saurabh_maiti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_maiti_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saurabh_maiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabh_maiti" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-singh-chauhan-93aa561b1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tusharrr23/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://tusharonweb.netlify.app)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh-maiti&show_icons=true&locale=en&layout=compact" alt="saurabh-maiti" /></p>
+## 🛠 Languages and Tools:
+
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+<img src="https://img.icons8.com/ios-filled/50/092E20/django.png" alt="Django"/>
+<img src="https://img.icons8.com/ios-filled/50/F37626/jupyter.png" alt="Jupyter Notebook" width="30"/>
+<img src="https://img.icons8.com/ios-filled/50/F05032/git.png" alt="Git" width="30"/>
+<img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="30"/>
+
+
+---
+
+## 📜 Certifications
+
+- [The Complete Android 14 & Kotlin Development Masterclass](https://www.udemy.com/certificate/UC-94780e40-deaa-4751-9732-fb649c38d08c/)
+- [The Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/certificate/UC-819be197-aa96-4f62-a2ed-6b82bb874656/)
+
+---
+
+
+### ✍️ Random Dev Quote
+
+<blockquote style="background-color:#0d0d1f;padding:20px;border-radius:12px;">
+  <p style="color:#00ffff;font-size:1.1rem;"><em>“Programs must be written for people to read, and only incidentally for machines to execute.”</em></p>
+  <p style="text-align:right;color:#ff4da6;"><strong>– Harold Abelson</strong></p>
+</blockquote>
+
+
+---
