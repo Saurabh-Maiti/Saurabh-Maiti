@@ -31,8 +31,8 @@
 
 ## 📜 Certifications
 
-- [The Complete Android 14 & Kotlin Development Masterclass](https://www.udemy.com/certificate/UC-94780e40-deaa-4751-9732-fb649c38d08c/)
-- [The Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/certificate/UC-819be197-aa96-4f62-a2ed-6b82bb874656/)
+- [The Complete Android 14 & Kotlin Development Masterclass]([https://www.udemy.com/certificate/UC-94780e40-deaa-4751-9732-fb649c38d08c/](https://www.udemy.com/certificate/UC-e25aaf81-0e88-43ad-8f50-914710233655/))
+- [HackerRank Problem Solving Certificate]([https://www.udemy.com/certificate/UC-819be197-aa96-4f62-a2ed-6b82bb874656/](https://www.hackerrank.com/certificates/iframe/f4efaeddc50e))
 
 ---
 
