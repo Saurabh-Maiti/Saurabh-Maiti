@@ -7,18 +7,19 @@
 
 ## 🐣 About Me:
 
-- 🛠 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **React and Django for Web Development**
-- 👯 I’m looking to collaborate on **Web Development Projects (React.js and Django)**
-- 📫 How to reach me: [tusharsinghchauhan1123@gmail.com](mailto:tusharsinghchauhan1123@gmail.com)
+- 🛠 I’m currently working on **Whispr**
+- 🌱 I’m currently learning **Android Development using Jeptack Compose**
+- 📫 How to reach me: [saurabhmaiti4281@gmail.com](mailto:saurabhmaiti4281@gmail.com)
 
 ---
 
 ## 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-singh-chauhan-93aa561b1/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tusharrr23/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://tusharonweb.netlify.app)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/saurabhmai44482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhmai44482" height="30" width="40" /></a>
+<a href="https://instagram.com/saurabh_maiti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_maiti_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saurabh_maiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabh_maiti" height="30" width="40" /></a>
+</p>
 
 ---
 
