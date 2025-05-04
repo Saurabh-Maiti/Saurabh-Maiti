@@ -7,7 +7,7 @@
 
 ## 🤓 About Me:
 
-- 🛠 I’m currently working on **Whispr**
+- 🛠 I’m currently working on **Whispr, an anonymous confession App **
 - 🌱 I’m currently learning **Android Development using Jeptack Compose**
 - 📫 How to reach me: [saurabhmaiti4281@gmail.com](mailto:saurabhmaiti4281@gmail.com)
 
