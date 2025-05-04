@@ -38,6 +38,7 @@
 
 
 ### 🎯 Achievements
-  <ol>Solved 500+ Problems on Leetcode</ol>
+  - Solved 500+ Dsa Problems on Leetcode
+  - Solved 600+ Dsa Problems across multiple coding platforms, covering topics like arrays, linked lists, trees, and graphs.
 
 ---
