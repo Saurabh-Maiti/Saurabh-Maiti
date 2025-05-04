@@ -29,7 +29,7 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Courses/Certifications
 
 - [The Complete Android 14 & Kotlin Development Masterclass]([https://www.udemy.com/certificate/UC-94780e40-deaa-4751-9732-fb649c38d08c/](https://www.udemy.com/certificate/UC-e25aaf81-0e88-43ad-8f50-914710233655/))
 - [HackerRank Problem Solving Certificate]([https://www.udemy.com/certificate/UC-819be197-aa96-4f62-a2ed-6b82bb874656/](https://www.hackerrank.com/certificates/iframe/f4efaeddc50e))
@@ -37,12 +37,7 @@
 ---
 
 
-### ✍️ Random Dev Quote
-
-<blockquote style="background-color:#0d0d1f;padding:20px;border-radius:12px;">
-  <p style="color:#00ffff;font-size:1.1rem;"><em>“Programs must be written for people to read, and only incidentally for machines to execute.”</em></p>
-  <p style="text-align:right;color:#ff4da6;"><strong>– Harold Abelson</strong></p>
-</blockquote>
-
+### 🎯 Achievements
+  <ol>Solved 500+ Problems on Leetcode</ol>
 
 ---
