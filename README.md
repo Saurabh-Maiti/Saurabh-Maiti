@@ -5,7 +5,7 @@
 
 ---
 
-## 🐣 About Me:
+## 🤓 About Me:
 
 - 🛠 I’m currently working on **Whispr**
 - 🌱 I’m currently learning **Android Development using Jeptack Compose**
