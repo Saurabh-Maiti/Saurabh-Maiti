@@ -5,9 +5,8 @@
 ---
 
 ## 🤓 About Me:
-
-- 🛠 I’m currently working on **Whispr, an anonymous confession app**
 - 🌱 I’m currently learning **Android Development using Jetpack Compose**
+- 🚀 I'm currently learning Go 
 - 📫 How to reach me: [saurabhmaiti4281@gmail.com](mailto:saurabhmaiti4281@gmail.com)
 
 ---
