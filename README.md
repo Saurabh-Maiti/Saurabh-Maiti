@@ -10,7 +10,6 @@
 * ⚙️ Building scalable backend systems using **NestJS, Node.js, and PostgreSQL**
 * 🧩 Strong in **Data Structures & Algorithms (900+ problems solved)**
 * 📱 Experienced with **Android (Jetpack Compose)**
-* 🌱 Currently exploring **Golang** and backend system design
 * 📫 Reach me at: **[saurabhmaiti4281@gmail.com](mailto:saurabhmaiti4281@gmail.com)**
 
 ---
