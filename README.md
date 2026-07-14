@@ -1,30 +1,33 @@
 # 👋 Hi, I'm Saurabh Maiti
 
-<h3 align="center">Backend Engineer (SDE Intern) ⚙️ | Android Developer 📱</h3>
+<h3 align="center">Software Engineer focused on building reliable and scalable software.</h3>
 
 ---
 
 ## 🧠 About Me
 
-* 💼 Currently working as a **Software Engineering Intern (Backend Team)**
-* ⚙️ Building scalable backend systems using **NestJS, Node.js, and PostgreSQL**
-* 🧩 Strong in **Data Structures & Algorithms (900+ problems solved)**
-* 📱 Experienced with **Android (Jetpack Compose)**
-* 📫 Reach me at: **[saurabhmaiti4281@gmail.com](mailto:saurabhmaiti4281@gmail.com)**
+- 💻 Software Engineer with experience building production-ready backend systems
+- ⚙️ Passionate about designing scalable, reliable, and maintainable software
+- 🚀 Experienced with **NestJS, Node.js, TypeScript, PostgreSQL, and MySQL**
+- 🧩 Strong in **Data Structures & Algorithms (900+ problems solved)**
+- 📱 Experienced with **Android Development (Jetpack Compose & Kotlin)**
+- 📫 Reach me at: **[saurabhmaiti4281@gmail.com](mailto:saurabhmaiti4281@gmail.com)**
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/saurabh-maiti-9bb574246/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <a href="https://twitter.com/saurabhmai44482" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/saurabh_maiti_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
-  </a>
-  <a href="https://www.leetcode.com/saurabh_maiti" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="30"/>
+  &nbsp;
+  <a href="https://leetcode.com/u/saurabh_maiti/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="32" alt="LeetCode"/>
   </a>
 </p>
 
@@ -33,40 +36,42 @@
 ## ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,postgres,mysql,go,kotlin" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,postgres,mysql,redis,docker,git,github,linux,go,kotlin" />
 </p>
 
 ---
 
 ## 🚀 What I Do
 
-* Design and build **REST APIs** with clean architecture
-* Work with **relational databases (PostgreSQL/MySQL)** and optimized queries
-* Handle **authentication systems, OTP flows, and backend logic**
-* Write **maintainable, scalable backend code used in production**
+- ⚙️ Build reliable and scalable backend systems using modern software engineering practices
+- 🏗️ Design clean, maintainable, and production-ready software with a strong focus on architecture
+- 🚀 Develop high-performance backend services with an emphasis on scalability, reliability, and performance
+- 🤝 Write clean, readable, and well-tested code that is easy to maintain and extend
 
 ---
 
 ## 🏆 Achievements
 
-* 💡 Solved **900+ DSA problems** across platforms
-* 🧠 Strong problem-solving in **Arrays, Trees, Graphs, DP**
+- 💡 Solved **900+ DSA problems** across platforms
+- 🧠 Strong problem-solving in **Arrays, Trees, Graphs, Dynamic Programming, and Binary Search**
+- 🏅 Earned **2nd place** in an Inter-College Hackathon
 
 ---
 
 ## 📜 Certifications
 
-* ✅ Android 14 & Kotlin Development Masterclass
-* ✅ HackerRank Problem Solving Certificate
+- ✅ Android 14 & Kotlin Development Masterclass
+- ✅ HackerRank Problem Solving Certificate
 
 ---
 
 ## 🎯 Current Focus
 
-* Backend system design (scalability, performance)
-* Writing production-level services
-* Preparing for top-tier SDE roles
+- 📈 Backend System Design
+- ⚡ Scalability & Performance Optimization
+- 🏛️ Distributed Systems & Software Architecture
+- 🚀 Building production-quality software
 
 ---
 
-⭐️ *Check out my repositories to see what I’m building.*
+⭐️ **Feel free to explore my repositories and don't hesitate to connect!**
